@@ -1,4 +1,4 @@
-###Safae Lahgazi Alaoui Art Portfolio Website###
+##Safae Lahgazi Alaoui Art Portfolio Website##
 
 *Pages Structure*
 
